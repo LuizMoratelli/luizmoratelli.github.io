@@ -11,3 +11,5 @@ A package made to make easier to export Scriptable Object as Sheets and import S
 ## ToolBelt for TCG Engine
 
 A package made with a variety of tools to boost performance while designing a game with TCG Engine.
+
+Documentation: https://moratelli.gitbook.io/moratellis-toolbelt-or-tcg-engine
