@@ -14,10 +14,10 @@ A package made to make easier to export Scriptable Object as Sheets and import S
 
 A package made with a variety of tools to boost performance while designing a game with TCG Engine.
 
-[Documentation](https://moratelli.gitbook.io/moratellis-toolbelt-or-tcg-engine)
+[Documentation](https://moratelli.gitbook.io/moratellis-toolbelt-for-tcg-engine)
 
 ## ToolBelt for TCG RogueLike
 
 A package made with a variety of tools to boost performance while designing a game with TCG Roguelike.
 
-[Documentation](https://moratelli.gitbook.io/moratellis-toolbelt-or-tcg-roguelike/)
+[Documentation](https://moratelli.gitbook.io/moratellis-toolbelt-for-tcg-roguelike/)
